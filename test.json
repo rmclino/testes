@@ -1,0 +1,9 @@
+{ "document":
+		[ "Numero":1,
+		 {"Data":"2021-10-10", 
+		  "tipo":"texto"},
+		"Numero"21,
+		 {"Data":"2021-10-11", 
+		  "tipo":"textojson"}
+		]
+}
